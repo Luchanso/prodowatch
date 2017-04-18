@@ -1,0 +1,19 @@
+{
+  "name": "prodowatch",
+  "version": "1.0.0",
+  "description": "production timer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -u --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luchanso/prodowatch.git"
+  },
+  "author": "Loutchansky Oleg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luchanso/prodowatch/issues"
+  },
+  "homepage": "https://github.com/Luchanso/prodowatch#readme"
+}
