@@ -1,6 +1,7 @@
-# prodowatch
-UI of factory timer
+# Prodowatch
 
-colors: 
-* #00ABF7
-* #191D27
+The stopwatch manager for business processes
+
+Primary palette:
+* #00ABF7 (light blue)
+* #191D27 (black)
