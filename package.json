@@ -4,7 +4,8 @@
   "description": "production timer",
   "main": "index.js",
   "scripts": {
-    "test": "jest -u --coverage"
+    "test": "jest -u --coverage",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
